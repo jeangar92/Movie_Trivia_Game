@@ -17,7 +17,7 @@ This is a simple user friendly JavaScript Trivia game which consist of 10 handpi
   <li>More Movie Trivia Questions</li>
   <li>Bonus Facts for Movie Trivias</li>
   <li>Better CSS and possible Animations when interacting with the site</li>
-  <li>In page load, no more switching between pages, for faster load and performance
+  <li>In page load, no more switching between pages, for faster load and performance.
 </ul> 
 
 
